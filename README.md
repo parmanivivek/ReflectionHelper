@@ -1,5 +1,5 @@
 # ReflectionHelper
-A basic utility for extracting property/property value from a simple/complex object.
+A basic utility for extracting property/property value from a simple/complex object in C#.
 
 **Description -**
 This utility can be used to extract any specified property or a value of a specific property from any simple or complex object. Note - If extracting nested property value use . operator. 
